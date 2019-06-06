@@ -10,7 +10,7 @@ import Graph from './components/Graph';
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+    <BrowserRouter basename="/react-redux-pwa" >
         <div className="App">
           <Navbar />
           <Switch>
