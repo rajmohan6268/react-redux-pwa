@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/react-redux-pwa/static/css/main.9b0cec6c.chunk.css",
-    "main.js": "/react-redux-pwa/static/js/main.34bf0bab.chunk.js",
-    "main.js.map": "/react-redux-pwa/static/js/main.34bf0bab.chunk.js.map",
+    "main.js": "/react-redux-pwa/static/js/main.424fc4b5.chunk.js",
+    "main.js.map": "/react-redux-pwa/static/js/main.424fc4b5.chunk.js.map",
     "runtime~main.js": "/react-redux-pwa/static/js/runtime~main.5fd39ab2.js",
     "runtime~main.js.map": "/react-redux-pwa/static/js/runtime~main.5fd39ab2.js.map",
-    "static/js/2.760bb9d9.chunk.js": "/react-redux-pwa/static/js/2.760bb9d9.chunk.js",
-    "static/js/2.760bb9d9.chunk.js.map": "/react-redux-pwa/static/js/2.760bb9d9.chunk.js.map",
+    "static/css/2.ad9eb4b5.chunk.css": "/react-redux-pwa/static/css/2.ad9eb4b5.chunk.css",
+    "static/js/2.871aec2a.chunk.js": "/react-redux-pwa/static/js/2.871aec2a.chunk.js",
+    "static/js/2.871aec2a.chunk.js.map": "/react-redux-pwa/static/js/2.871aec2a.chunk.js.map",
     "index.html": "/react-redux-pwa/index.html",
-    "precache-manifest.40870ae8afa49f517feddb80fd62ba22.js": "/react-redux-pwa/precache-manifest.40870ae8afa49f517feddb80fd62ba22.js",
+    "precache-manifest.f857c043f9db2ea96b0540e7897ce203.js": "/react-redux-pwa/precache-manifest.f857c043f9db2ea96b0540e7897ce203.js",
     "service-worker.js": "/react-redux-pwa/service-worker.js",
+    "static/css/2.ad9eb4b5.chunk.css.map": "/react-redux-pwa/static/css/2.ad9eb4b5.chunk.css.map",
     "static/css/main.9b0cec6c.chunk.css.map": "/react-redux-pwa/static/css/main.9b0cec6c.chunk.css.map",
     "static/media/pokeball.png": "/react-redux-pwa/static/media/pokeball.f10bf078.png"
   }
